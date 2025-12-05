@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Photon Surfaces: Fractional-Dimension Rendering",
+  "description": "A WebGPU demonstration of a novel rendering primitive that bridges the gap between surfaces (2D) and volumes (3D) using fractional dimensions to simulate biological tissue, clouds, and translucent materials.",
+  "requestFramePermissions": []
+}
